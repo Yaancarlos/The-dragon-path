@@ -1,3 +1,78 @@
 [submodule "tailwind-lastlesVPN"]
 	path = tailwind-lastlesVPN
 	url = https://github.com/Yaancarlos/tailwind-lastlesVPN
+[submodule "Challenge-0.2"]
+	path = Challenge-0.2
+	url = https://github.com/Yaancarlos/Challenge-0.2.git
+[submodule "Challenge-0.3"]
+	path = Challenge-0.3
+	url = https://github.com/Yaancarlos/Challenge-0.3.git
+[submodule "Challenge-0.4"]
+	path = Challenge-0.4
+	url = https://github.com/Yaancarlos/Challenge-0.4.git
+[submodule "Features"]
+	path = Features
+	url = https://github.com/Yaancarlos/Features.git
+[submodule "Sidebars"]
+	path = Sidebars
+	url = https://github.com/Yaancarlos/Sidebars.git
+[submodule "Footers"]
+	path = Footers
+	url = https://github.com/Yaancarlos/Footers.git
+[submodule "Dropdowns"]
+	path = Dropdowns
+	url = https://github.com/Yaancarlos/Dropdowns.git
+[submodule "List-groups"]
+	path = List-groups
+	url = https://github.com/Yaancarlos/List-groups.git
+[submodule "Modals"]
+	path = Modals
+	url = https://github.com/Yaancarlos/Modals.git
+[submodule "Trafalgar"]
+	path = Trafalgar
+	url = https://github.com/Yaancarlos/Trafalgar.git
+[submodule "Trafalgar-First"]
+	path = Trafalgar-First
+	url = https://github.com/Yaancarlos/Trafalgar-First.git
+[submodule "Trafalgar-second"]
+	path = Trafalgar-second
+	url = https://github.com/Yaancarlos/Trafalgar-second.git
+[submodule "Trafalgar-third"]
+	path = Trafalgar-third
+	url = https://github.com/Yaancarlos/Trafalgar-third.git
+[submodule "tailwind-contents"]
+	path = tailwind-contents
+	url = https://github.com/Yaancarlos/tailwind-contents.git
+[submodule "Taliwind-features"]
+	path = Taliwind-features
+	url = https://github.com/Yaancarlos/Taliwind-features.git
+[submodule "tailwind-forms"]
+	path = tailwind-forms
+	url = https://github.com/Yaancarlos/tailwind-forms.git
+[submodule "trafalagar-testimonials"]
+	path = trafalagar-testimonials
+	url = https://github.com/Yaancarlos/trafalagar-testimonials.git
+[submodule "tailwind-ecommerce"]
+	path = tailwind-ecommerce
+	url = https://github.com/Yaancarlos/tailwind-ecommerce.git
+[submodule "trafalgar-calltoaction"]
+	path = trafalgar-calltoaction
+	url = https://github.com/Yaancarlos/trafalgar-calltoaction.git
+[submodule "trafalgar-showcase"]
+	path = trafalgar-showcase
+	url = https://github.com/Yaancarlos/trafalgar-showcase.git
+[submodule "trafalar-team"]
+	path = trafalar-team
+	url = https://github.com/Yaancarlos/trafalar-team.git
+[submodule "trafalgar-contacts"]
+	path = trafalgar-contacts
+	url = https://github.com/Yaancarlos/trafalgar-contacts.git
+[submodule "tailwind-pricing-tables"]
+	path = tailwind-pricing-tables
+	url = https://github.com/Yaancarlos/tailwind-pricing-tables.git
+[submodule "tailwind-pages"]
+	path = tailwind-pages
+	url = https://github.com/Yaancarlos/tailwind-pages.git
+[submodule "tailwind-footers"]
+	path = tailwind-footers
+	url = https://github.com/Yaancarlos/tailwind-footers.git
