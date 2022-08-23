@@ -1,4 +1,4 @@
-| CSS |
+| CSS |  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
