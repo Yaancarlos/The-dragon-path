@@ -1,4 +1,4 @@
-| First Header  | Second Header |
+| CSS |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
